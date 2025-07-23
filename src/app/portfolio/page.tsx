@@ -2,6 +2,8 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import { LightBulbIcon, CogIcon, BuildingOfficeIcon } from '@heroicons/react/24/outline';
 
+// 📊 PORTFOLIO DATA - อัพเดทข้อมูลโครงการจริงที่นี่
+// *** เพิ่มโครงการใหม่: copy format ด้านล่างแล้วเปลี่ยนข้อมูล ***
 const projects = [
   {
     id: 1,
