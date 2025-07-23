@@ -4,7 +4,6 @@ import {
   CogIcon, 
   LightBulbIcon, 
   WrenchScrewdriverIcon, 
-  BoltIcon,
   BuildingOfficeIcon,
   ChartBarIcon,
   ShieldCheckIcon,

@@ -65,15 +65,6 @@ const projects = [
   },
 ];
 
-const categories = [
-  { name: 'ทั้งหมด', value: 'all' },
-  { name: 'อุตสาหกรรม', value: 'Industrial' },
-  { name: 'ระบบควบคุม', value: 'Automation' },
-  { name: 'อาคาร', value: 'Building' },
-  { name: 'พลังงานทดแทน', value: 'Renewable Energy' },
-  { name: 'สาธารณสุข', value: 'Healthcare' },
-];
-
 export default function Portfolio() {
   return (
     <>

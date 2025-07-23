@@ -1,5 +1,4 @@
 import Link from 'next/link';
-import Image from 'next/image';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import { ArrowRightIcon, LightBulbIcon, CogIcon, WrenchScrewdriverIcon } from '@heroicons/react/24/outline';
